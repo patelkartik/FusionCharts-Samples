@@ -56,6 +56,7 @@ if ($dbhandle->connect_error) {
             "legendBorderAlpha"=> "0",
             "legendShadow"=> "0",
             "legendItemFontSize"=> "10",
+	    "numVisiblePlot"=> "12",
             "legendItemFontColor"=> "#666666",
             "theme"=> "fint"
           	)
